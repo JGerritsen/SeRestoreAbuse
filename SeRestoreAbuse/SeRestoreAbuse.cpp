@@ -1,5 +1,5 @@
 #include <iostream>
-#include <Windows.h>
+#include <windows.h>
 
 /*
  Exploit SeRestorePrivilege by modifying Seclogon ImagePath
